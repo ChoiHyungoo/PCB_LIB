@@ -1,0 +1,1929 @@
+\t (00:01:46) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:46)     Journal start - Tue Jul 16 11:45:41 2019
+\t (00:01:46)         Host=USER-PC User=user Pid=4796 CPUs=4
+\t (00:01:46) CmdLine= allegro.exe -p .
+\t (00:01:46) 
+\t (00:01:46) Starting new design...
+\i (00:01:46) trapsize 2685
+\i (00:01:46) trapsize 2685
+\i (00:01:46) generaledit 
+\i (00:01:58) new 
+\e (00:01:58) Do you want to save the changes you made to my_dip8.brd?
+\i (00:02:01) fillin yes 
+\i (00:02:31) newdrawfillin "my_dip.dra" "Package Symbol"
+\t (00:02:31) Starting new design...
+\i (00:02:31) trapsize 1442
+\i (00:02:32) trapsize 1415
+\i (00:02:32) trapsize 1442
+\i (00:02:32) trapsize 2685
+\i (00:02:32) trapsize 2685
+\i (00:02:32) generaledit 
+\i (00:02:52) prmed 
+\i (00:02:57) setwindow form.prmedit
+\i (00:02:57) FORM prmedit display_plated_holes YES 
+\i (00:02:57) FORM prmedit display_non_plated_holes YES 
+\i (00:02:58) FORM prmedit display_thermal YES 
+\i (00:02:59) FORM prmedit display_fat_rats YES 
+\i (00:02:59) FORM prmedit waived_drc_on YES 
+\i (00:03:00) FORM prmedit via_labels YES 
+\i (00:03:00) FORM prmedit dp_driver_pins YES 
+\i (00:03:00) FORM prmedit secondary_step_model YES 
+\i (00:03:09) FORM prmedit design  
+\i (00:03:31) FORM prmedit long_name_size 255 
+\i (00:03:47) FORM prmedit x -50.000 
+\i (00:03:49) FORM prmedit y -50.000 
+\i (00:04:07) FORM prmedit size A4 
+\i (00:04:41) FORM prmedit done  
+\i (00:04:41) setwindow pcb
+\i (00:04:41) trapsize 1306
+\i (00:04:42) generaledit 
+\i (00:05:03) define grid 
+\t (00:05:03) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:05:03) generaledit 
+\i (00:05:34) setwindow form.grid
+\i (00:05:34) FORM grid non_etch non_etch_x_grids 1.27 
+\i (00:05:38) FORM grid non_etch non_etch_y_grids 1.27 
+\i (00:06:05) FORM grid done  
+\i (00:06:13) setwindow pcb
+\i (00:06:13) add pin 
+\i (00:06:42) trapsize 1106
+\i (00:08:05) trapsize 1149
+\i (00:08:28) setwindow form.mini
+\i (00:08:28) FORM mini pad_browse  
+\i (00:08:41) fillin "60C85c35d"
+\w (00:08:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:08:41) Using '60C85C35D.pad'.
+\i (00:10:10) setwindow pcb
+\i (00:10:10) prepopup 120.918 102.999
+\i (00:10:11) oops 
+\i (00:10:13) setwindow form.mini
+\i (00:10:13) FORM mini pad_browse  
+\i (00:10:54) fillin "Pad60cir35d"
+\w (00:10:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:10:54) Using 'PAD60CIR35D.pad'.
+\i (00:10:58) setwindow pcb
+\i (00:10:58) zoom in 1 
+\i (00:10:58) setwindow pcb
+\i (00:10:58) zoom in 116.094 79.797
+\i (00:10:58) trapsize 574
+\i (00:10:58) zoom in 1 
+\i (00:10:58) setwindow pcb
+\i (00:10:58) zoom in 115.979 79.798
+\i (00:10:58) trapsize 287
+\i (00:10:58) zoom in 1 
+\i (00:10:58) setwindow pcb
+\i (00:10:58) zoom in 115.979 79.798
+\i (00:10:58) trapsize 144
+\i (00:10:59) zoom in 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom in 115.979 79.798
+\i (00:10:59) trapsize 72
+\i (00:11:43) pick grid 108.585 73.868
+\t (00:11:43) last pick:  109.220 73.660
+\t (00:11:43) Using 'PAD60CIR35D.pad'.
+\i (00:12:03) prepopup 112.576 74.371
+\i (00:12:04) oops 
+\t (00:12:04) Using 'PAD60CIR35D.pad'.
+\i (00:12:08) zoom out 1 
+\i (00:12:08) setwindow pcb
+\i (00:12:08) zoom out 118.836 78.219
+\i (00:12:08) trapsize 144
+\i (00:12:08) zoom out 1 
+\i (00:12:08) setwindow pcb
+\i (00:12:08) zoom out 118.837 78.218
+\i (00:12:08) trapsize 287
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 118.836 78.219
+\i (00:12:09) trapsize 574
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 118.837 78.219
+\i (00:12:09) trapsize 1149
+\i (00:12:09) zoom out 1 
+\i (00:12:09) setwindow pcb
+\i (00:12:09) zoom out 161.574 78.218
+\i (00:12:09) trapsize 1306
+\i (00:12:11) zoom in 1 
+\i (00:12:11) setwindow pcb
+\i (00:12:11) zoom in -0.895 -1.157
+\i (00:12:11) trapsize 653
+\i (00:12:11) zoom in 1 
+\i (00:12:11) setwindow pcb
+\i (00:12:11) zoom in -2.592 -2.462
+\i (00:12:11) trapsize 326
+\i (00:12:11) zoom in 1 
+\i (00:12:11) setwindow pcb
+\i (00:12:11) zoom in -2.592 -2.462
+\i (00:12:11) trapsize 163
+\i (00:12:12) zoom in 1 
+\i (00:12:12) setwindow pcb
+\i (00:12:12) zoom in -0.730 -1.646
+\i (00:12:12) trapsize 82
+\i (00:12:12) zoom in 1 
+\i (00:12:12) setwindow pcb
+\i (00:12:12) zoom in -0.730 -1.645
+\i (00:12:12) trapsize 41
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out 3.890 1.073
+\i (00:12:15) trapsize 82
+\i (00:12:17) roam y -96 
+\i (00:12:17) roam y -96
+\i (00:12:18) roam y -96 
+\i (00:12:18) roam y -96
+\i (00:12:18) roam y -96 
+\i (00:12:18) roam y -96
+\i (00:12:18) roam x 96 
+\i (00:12:18) roam x 96
+\i (00:12:19) roam x 96 
+\i (00:12:19) roam x 96
+\i (00:12:54) setwindow form.mini
+\i (00:12:54) FORM mini x_count 4 
+\i (00:13:14) FORM mini x_spacing 2.540 
+\i (00:13:36) setwindow pcb
+\i (00:13:36) pick grid 0.604 0.343
+\t (00:13:36) last pick:  0.000 0.000
+\t (00:13:36) Using 'PAD60CIR35D.pad'.
+\i (00:13:57) setwindow form.mini
+\i (00:13:57) FORM mini x_direction Left 
+\i (00:14:38) setwindow pcb
+\i (00:14:38) pick grid 8.064 6.987
+\t (00:14:38) last pick:  7.620 7.620
+\t (00:14:38) Using 'PAD60CIR35D.pad'.
+\i (00:17:39) new 
+\t (00:17:39) Exiting from Add Pin.
+\e (00:17:40) Do you want to save the changes you made to my_dip.dra?
+\i (00:17:41) fillin menu_cancel 
+\i (00:17:41) generaledit 
+\i (00:29:40) add line 
+\i (00:29:52) setwindow form.mini
+\i (00:29:52) FORM mini line_width 0.200 
+\i (00:30:48) setwindow pcb
+\i (00:30:48) grid toggle 
+\i (00:31:02) setwindow form.mini
+\i (00:31:02) FORM mini subclass SILKSCREEN_TOP 
+\i (00:31:22) setwindow pcb
+\i (00:31:22) pick grid -1.289 2.595
+\t (00:31:22) last pick:  -1.270 2.540
+\i (00:31:22) pick grid -1.436 1.224
+\t (00:31:22) last pick:  -1.270 1.270
+\i (00:31:23) pick grid 8.358 1.290
+\t (00:31:23) last pick:  8.890 1.270
+\i (00:31:26) pick grid 8.766 5.746
+\t (00:31:26) last pick:  8.890 6.350
+\i (00:31:27) pick grid -0.685 6.660
+\t (00:31:27) last pick:  -1.270 6.350
+\i (00:31:27) pick grid -1.110 5.697
+\t (00:31:27) last pick:  -1.270 5.080
+\i (00:31:55) prepopup -1.159 5.077
+\i (00:31:56) done 
+\i (00:31:56) generaledit 
+\i (00:32:18) add arc 
+\i (00:32:20) pick grid -1.240 5.093
+\t (00:32:20) last pick:  -1.270 5.080
+\i (00:32:22) pick grid -1.110 3.150
+\t (00:32:22) last pick:  -1.270 2.540
+\i (00:32:23) pick grid -0.620 3.820
+\t (00:32:23) last pick:  0.000 3.810
+\i (00:32:28) prepopup -0.457 4.913
+\i (00:32:29) done 
+\i (00:32:29) generaledit 
+\i (00:33:25) pick grid -3.150 5.419
+\t (00:33:25) last pick:  -2.540 5.080
+\i (00:34:03) replace padstack 
+\i (00:34:06) setwindow form.mini
+\i (00:34:06) FORM mini newname_browse  
+\i (00:34:08) fillin "menu_cancel"
+\i (00:34:10) setwindow pcb
+\i (00:34:10) pick grid 0.131 -0.114
+\t (00:34:10) last pick:  0.000 0.000
+\i (00:34:12) setwindow form.mini
+\i (00:34:12) FORM mini newname_browse  
+\i (00:35:16) fillin "Pad60sq36d"
+\w (00:35:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:35:56) FORM mini pinnumber 1 
+\i (00:35:56) FORM mini replace  
+\i (00:35:57) setwindow pcb
+\i (00:35:57) prepopup -0.179 0.000
+\i (00:35:57) done 
+\t (00:35:57) Performing DRC...
+\t (00:35:57) No DRC errors detected.
+\i (00:35:58) generaledit 
+\i (00:36:49) label refdes 
+\t (00:36:49) Pick text location.
+\i (00:37:01) setwindow form.mini
+\i (00:37:01) FORM mini subclass SILKSCREEN_TOP 
+\i (00:37:35) setwindow pcb
+\i (00:37:35) zoom in 1 
+\i (00:37:35) setwindow pcb
+\i (00:37:35) zoom in 12.374 7.150
+\i (00:37:35) trapsize 41
+\i (00:37:36) zoom in 1 
+\i (00:37:36) setwindow pcb
+\i (00:37:36) zoom in 12.317 7.232
+\i (00:37:36) trapsize 20
+\i (00:37:36) zoom out 1 
+\i (00:37:36) setwindow pcb
+\i (00:37:36) zoom out 12.224 7.232
+\i (00:37:36) trapsize 41
+\i (00:37:36) zoom out 1 
+\i (00:37:36) setwindow pcb
+\i (00:37:36) zoom out 8.143 7.624
+\i (00:37:36) trapsize 82
+\i (00:37:36) zoom out 1 
+\i (00:37:36) setwindow pcb
+\i (00:37:36) zoom out 3.930 7.934
+\i (00:37:36) trapsize 163
+\i (00:37:37) zoom in 1 
+\i (00:37:37) setwindow pcb
+\i (00:37:37) zoom in -0.902 10.611
+\i (00:37:37) trapsize 82
+\i (00:37:38) zoom out 1 
+\i (00:37:38) setwindow pcb
+\i (00:37:38) zoom out -0.901 10.611
+\i (00:37:38) trapsize 163
+\i (00:37:39) zoom in 1 
+\i (00:37:39) setwindow pcb
+\i (00:37:39) zoom in -0.772 11.134
+\i (00:37:39) trapsize 82
+\i (00:37:39) zoom in 1 
+\i (00:37:39) setwindow pcb
+\i (00:37:39) zoom in -0.772 11.134
+\i (00:37:39) trapsize 41
+\i (00:37:40) zoom out 1 
+\i (00:37:40) setwindow pcb
+\i (00:37:40) zoom out -0.747 11.078
+\i (00:37:40) trapsize 82
+\i (00:37:46) pick grid -0.747 10.881
+\t (00:37:46) last pick:  -1.270 11.430
+\t (00:37:46) Enter text string.
+\i (00:37:48) setwindow pcb
+\i (00:37:48) zoom out 1 
+\i (00:37:48) setwindow pcb
+\i (00:37:48) zoom out 3.464 9.983
+\i (00:37:48) trapsize 163
+\i (00:37:48) zoom out 1 
+\i (00:37:48) setwindow pcb
+\i (00:37:48) zoom out 3.040 10.050
+\i (00:37:48) trapsize 326
+\i (00:37:48) zoom out 1 
+\i (00:37:49) setwindow pcb
+\i (00:37:49) zoom out 1.929 10.180
+\i (00:37:49) trapsize 653
+\i (00:37:49) zoom in 1 
+\i (00:37:49) setwindow pcb
+\i (00:37:49) zoom in -1.942 16.472
+\i (00:37:49) trapsize 326
+\i (00:37:50) zoom in 1 
+\i (00:37:50) setwindow pcb
+\i (00:37:50) zoom in -1.550 19.933
+\i (00:37:50) trapsize 163
+\i (00:37:50) zoom in 1 
+\i (00:37:50) setwindow pcb
+\i (00:37:50) zoom in -1.484 9.421
+\i (00:37:50) trapsize 82
+\i (00:37:51) zoom in 1 
+\i (00:37:51) setwindow pcb
+\i (00:37:51) zoom in -0.929 10.335
+\i (00:37:51) trapsize 41
+\i (00:37:59) prepopup 0.475 11.918
+\i (00:38:00) done 
+\i (00:38:00) setwindow pcb
+\i (00:38:00) pick -1.270 11.430
+\i (00:38:00) setwindow pcb
+\i (00:38:00) generaledit 
+\i (00:38:23) save 
+\t (00:38:25) Symbol 'my_dip.psm' created.
+\i (00:38:25) generaledit 
+\i (00:38:27) zoom out 1 
+\i (00:38:27) setwindow pcb
+\i (00:38:27) zoom out 0.687 11.820
+\i (00:38:27) trapsize 82
+\i (00:38:28) zoom out 1 
+\i (00:38:28) setwindow pcb
+\i (00:38:28) zoom out 0.688 10.433
+\i (00:38:28) trapsize 163
+\i (00:41:52) enved 
+\i (00:41:53) generaledit 
+\i (00:42:05) setwindow form.prfedit
+\i (00:42:05) FORM prfedit treelist  Paths 
+\i (00:42:08) FORM prfedit treelist  Library Paths 
+\i (00:43:26) FORM prfedit padpath  
+\i (00:44:37) FORM prfedit psmpath  
+\i (00:44:57) FORM prfedit padpath  
+\i (00:45:01) FORM prfedit psmpath  
+\i (00:46:05) FORM prfedit treelist  File_management 
+\i (00:46:15) FORM prfedit treelist  Output_dir File_management 
+\i (00:47:03) FORM prfedit ads_sdart gerber 
+\i (00:47:05) FORM prfedit done  
+\i (00:48:28) setwindow pcb
+\i (00:48:28) save 
+\i (00:48:32) fillin yes 
+\t (00:48:32) Symbol 'my_dip.psm' created.
+\i (00:48:32) generaledit 
+\i (00:48:36) new 
+\i (00:48:58) newdrawfillin "my_dip16.dra" "Package Symbol"
+\t (00:48:58) Starting new design...
+\i (00:48:58) trapsize 1306
+\i (00:48:58) trapsize 1306
+\i (00:48:58) generaledit 
+\i (00:49:07) define grid 
+\t (00:49:07) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:49:07) generaledit 
+\i (00:49:18) setwindow form.grid
+\i (00:49:18) FORM grid non_etch non_etch_x_grids 1.27 
+\i (00:49:23) FORM grid non_etch non_etch_y_grids 1.27 
+\i (00:49:23) FORM grid done  
+\i (00:49:26) setwindow pcb
+\i (00:49:26) add pin 
+\i (00:49:33) setwindow form.mini
+\i (00:49:33) FORM mini pad_browse  
+\i (00:49:51) fillin "Pad60cir35d"
+\w (00:49:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:49:51) Using 'PAD60CIR35D.pad'.
+\i (00:50:02) FORM mini x_spacing 4.000 
+\i (00:50:06) FORM mini x_spacing 2.540 
+\i (00:50:13) FORM mini x_count 4 
+\i (00:50:16) setwindow pcb
+\i (00:50:16) zoom out 1 
+\i (00:50:16) setwindow pcb
+\i (00:50:16) zoom out 53.172 18.955
+\i (00:50:16) trapsize 1306
+\i (00:50:16) zoom out 1 
+\i (00:50:16) setwindow pcb
+\i (00:50:16) zoom out 53.433 19.216
+\i (00:50:16) trapsize 1306
+\i (00:50:18) zoom in 1 
+\i (00:50:18) setwindow pcb
+\i (00:50:18) zoom in -2.463 -3.769
+\i (00:50:18) trapsize 653
+\i (00:50:18) zoom in 1 
+\i (00:50:18) setwindow pcb
+\i (00:50:18) zoom in -2.462 -3.768
+\i (00:50:18) trapsize 326
+\i (00:50:18) zoom in 1 
+\i (00:50:18) setwindow pcb
+\i (00:50:18) zoom in -1.286 -3.115
+\i (00:50:18) trapsize 163
+\i (00:50:19) zoom in 1 
+\i (00:50:19) setwindow pcb
+\i (00:50:19) zoom in -0.927 -2.756
+\i (00:50:19) trapsize 82
+\i (00:50:19) zoom in 1 
+\i (00:50:19) setwindow pcb
+\i (00:50:19) zoom in 0.330 -0.454
+\i (00:50:19) trapsize 41
+\i (00:50:38) setwindow form.mini
+\i (00:50:38) FORM mini x_count 8 
+\i (00:50:41) setwindow pcb
+\i (00:50:41) pick grid 0.608 0.354
+\t (00:50:41) last pick:  0.000 0.000
+\t (00:50:41) Using 'PAD60CIR35D.pad'.
+\i (00:50:42) zoom out 1 
+\i (00:50:42) setwindow pcb
+\i (00:50:42) zoom out 1.930 0.003
+\i (00:50:42) trapsize 82
+\i (00:50:50) setwindow form.mini
+\i (00:50:50) FORM mini x_direction Left 
+\i (00:50:59) setwindow pcb
+\i (00:50:59) grid toggle 
+\i (00:51:08) zoom in 1 
+\i (00:51:08) setwindow pcb
+\i (00:51:08) zoom in 17.438 5.896
+\i (00:51:08) trapsize 41
+\i (00:51:09) zoom out 1 
+\i (00:51:09) setwindow pcb
+\i (00:51:09) zoom out 17.414 5.545
+\i (00:51:09) trapsize 82
+\i (00:51:10) zoom out 1 
+\i (00:51:10) setwindow pcb
+\i (00:51:10) zoom out 17.413 5.546
+\i (00:51:10) trapsize 163
+\i (00:51:26) zoom out 1 
+\i (00:51:26) setwindow pcb
+\i (00:51:26) zoom out 17.185 7.179
+\i (00:51:26) trapsize 326
+\i (00:51:28) zoom in 1 
+\i (00:51:28) setwindow pcb
+\i (00:51:28) zoom in 17.517 6.721
+\i (00:51:28) trapsize 163
+\i (00:51:28) zoom in 1 
+\i (00:51:28) setwindow pcb
+\i (00:51:28) zoom in 17.452 7.048
+\i (00:51:28) trapsize 82
+\i (00:51:29) zoom out 1 
+\i (00:51:29) setwindow pcb
+\i (00:51:29) zoom out 17.240 7.195
+\i (00:51:29) trapsize 163
+\i (00:51:31) zoom out 1 
+\i (00:51:31) setwindow pcb
+\i (00:51:31) zoom out 16.619 7.457
+\i (00:51:31) trapsize 326
+\i (00:51:31) zoom out 1 
+\i (00:51:32) setwindow pcb
+\i (00:51:32) zoom out 16.620 7.326
+\i (00:51:32) trapsize 653
+\i (00:51:32) zoom out 1 
+\i (00:51:32) setwindow pcb
+\i (00:51:32) zoom out 80.593 51.993
+\i (00:51:32) trapsize 1306
+\i (00:51:32) zoom out 1 
+\i (00:51:32) setwindow pcb
+\i (00:51:32) zoom out 210.933 153.209
+\i (00:51:32) trapsize 1306
+\i (00:51:32) zoom in 1 
+\i (00:51:32) setwindow pcb
+\i (00:51:32) zoom in -0.634 31.754
+\i (00:51:32) trapsize 653
+\i (00:51:34) zoom in 1 
+\i (00:51:34) setwindow pcb
+\i (00:51:34) zoom in 2.761 -5.466
+\i (00:51:34) trapsize 326
+\i (00:51:34) zoom in 1 
+\i (00:51:34) setwindow pcb
+\i (00:51:34) zoom in 2.826 -5.270
+\i (00:51:34) trapsize 163
+\i (00:51:39) pick grid 18.041 17.193
+\t (00:51:39) last pick:  17.780 17.780
+\t (00:51:39) Using 'PAD60CIR35D.pad'.
+\i (00:51:45) prepopup 23.036 12.916
+\i (00:51:45) done 
+\t (00:51:45) Exiting from Add Pin.
+\i (00:51:45) generaledit 
+\i (00:51:51) add line 
+\i (00:52:07) setwindow form.mini
+\i (00:52:07) FORM mini line_width 0.200 
+\i (00:52:10) FORM mini subclass SILKSCREEN_TOP 
+\i (00:52:28) setwindow pcb
+\i (00:52:28) pick grid -1.288 16.703
+\t (00:52:28) last pick:  -1.270 16.510
+\i (00:52:30) pick grid 17.159 16.246
+\t (00:52:30) last pick:  17.780 16.510
+\i (00:52:31) pick grid 17.714 1.880
+\t (00:52:31) last pick:  17.780 1.270
+\i (00:52:33) pick grid -0.667 1.456
+\t (00:52:33) last pick:  -1.270 1.270
+\i (00:52:40) pick grid -1.679 6.908
+\t (00:52:40) last pick:  -1.270 6.350
+\i (00:52:47) prepopup -1.026 4.851
+\i (00:52:47) done 
+\i (00:52:48) generaledit 
+\i (00:52:52) add line 
+\i (00:52:53) pick grid -1.255 16.572
+\t (00:52:53) last pick:  -1.270 16.510
+\i (00:52:55) pick grid -0.700 11.512
+\t (00:52:55) last pick:  -1.270 11.430
+\i (00:52:55) prepopup -0.504 11.903
+\i (00:52:56) done 
+\i (00:52:56) generaledit 
+\i (00:53:18) drag_start grid 21.371 16.115
+\i (00:53:19) drag_stop -3.116 18.858
+\i (00:53:25) prepopup -1.222 14.319
+\i (00:53:27) pop dyn_option_select @:@Delete 
+\i (00:53:27) delete 
+\i (00:53:27) generaledit 
+\i (00:53:35) add pin 
+\t (00:53:35) Using 'PAD60CIR35D.pad'.
+\i (00:53:40) pick grid 17.779 8.214
+\t (00:53:40) last pick:  17.780 7.620
+\t (00:53:40) Using 'PAD60CIR35D.pad'.
+\i (00:53:42) prepopup -0.471 4.198
+\i (00:53:43) done 
+\t (00:53:43) Exiting from Add Pin.
+\i (00:53:43) generaledit 
+\i (00:53:43) prepopup -1.386 4.721
+\i (00:53:44) pick grid -1.255 5.047
+\t (00:53:44) last pick:  -1.270 5.080
+\i (00:53:44) prepopup -1.255 5.047
+\i (00:53:46) pop dyn_option_select @:@Delete 
+\i (00:53:46) delete 
+\i (00:53:46) generaledit 
+\i (00:53:51) add line 
+\i (00:53:52) pick grid -1.288 6.321
+\t (00:53:52) last pick:  -1.270 6.350
+\i (00:53:53) pick grid 17.192 6.418
+\t (00:53:53) last pick:  17.780 6.350
+\i (00:53:54) pick grid 17.812 0.640
+\t (00:53:54) last pick:  17.780 1.270
+\i (00:53:55) prepopup 17.845 1.423
+\i (00:53:55) done 
+\i (00:53:55) generaledit 
+\i (00:53:57) add line 
+\i (00:53:58) pick grid -1.222 6.190
+\t (00:53:58) last pick:  -1.270 6.350
+\i (00:54:00) pick grid -1.255 5.700
+\t (00:54:00) last pick:  -1.270 5.080
+\i (00:54:00) prepopup -1.320 5.700
+\i (00:54:01) done 
+\i (00:54:01) generaledit 
+\i (00:54:03) add line 
+\i (00:54:03) pick grid -1.288 2.664
+\t (00:54:03) last pick:  -1.270 2.540
+\i (00:54:04) pick grid -1.418 1.848
+\t (00:54:04) last pick:  -1.270 1.270
+\i (00:54:04) prepopup -1.386 1.391
+\i (00:54:05) done 
+\i (00:54:05) generaledit 
+\i (00:54:07) add arc 
+\i (00:54:08) pick grid -1.255 5.112
+\t (00:54:08) last pick:  -1.270 5.080
+\i (00:54:08) pick grid -0.994 3.154
+\t (00:54:08) last pick:  -1.270 2.540
+\i (00:54:09) pick grid -0.635 4.002
+\t (00:54:09) last pick:  0.000 3.810
+\i (00:54:09) prepopup 0.280 4.002
+\i (00:54:10) done 
+\i (00:54:10) generaledit 
+\i (00:55:03) replace padstack 
+\i (00:55:06) pick grid -0.341 0.052
+\t (00:55:06) last pick:  0.000 0.000
+\i (00:55:12) setwindow form.mini
+\i (00:55:12) FORM mini newname_browse  
+\i (00:55:24) fillin "Pad60sq36d"
+\w (00:55:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:55:29) FORM mini pinnumber 1 
+\i (00:55:29) FORM mini replace  
+\i (00:55:42) setwindow pcb
+\i (00:55:42) label refdes 
+\t (00:55:42) Performing DRC...
+\t (00:55:42) No DRC errors detected.
+\t (00:55:42) Pick text location.
+\i (00:55:46) setwindow form.mini
+\i (00:55:46) FORM mini subclass SILKSCREEN_TOP 
+\i (00:55:50) setwindow pcb
+\i (00:55:50) pick grid -1.092 13.797
+\t (00:55:50) last pick:  -1.270 13.970
+\t (00:55:50) Enter text string.
+\i (00:55:56) setwindow pcb
+\i (00:55:56) prepopup 0.084 14.287
+\i (00:55:57) done 
+\i (00:55:57) setwindow pcb
+\i (00:55:57) pick -1.270 13.970
+\i (00:55:57) setwindow pcb
+\i (00:55:57) generaledit 
+\i (00:56:08) enved 
+\i (00:56:08) generaledit 
+\i (00:56:21) setwindow form.prfedit
+\i (00:56:21) FORM prfedit treelist  Paths 
+\i (00:56:23) FORM prfedit treelist  Library Paths 
+\i (00:56:26) FORM prfedit padpath  
+\i (00:56:29) FORM prfedit done  
+\i (00:56:34) setwindow pcb
+\i (00:56:34) save 
+\t (00:56:35) Symbol 'my_dip16.psm' created.
+\i (00:56:35) generaledit 
+\i (00:57:20) pick grid 17.388 -0.046
+\t (00:57:20) last pick:  17.780 0.000
+\i (00:57:21) pick grid 17.877 0.052
+\t (00:57:21) last pick:  17.780 0.000
+\i (00:57:25) add pin 
+\t (00:57:25) Using 'PAD60CIR35D.pad'.
+\i (00:57:33) Esc 
+\w (00:57:33) WARNING(SPMHA1-314): Illegal event.
+\i (00:57:33) Esc 
+\w (00:57:33) WARNING(SPMHA1-314): Illegal event.
+\i (00:57:35) Esc 
+\w (00:57:35) WARNING(SPMHA1-314): Illegal event.
+\i (00:57:35) Esc 
+\w (00:57:35) WARNING(SPMHA1-314): Illegal event.
+\i (00:57:35) Esc 
+\w (00:57:35) WARNING(SPMHA1-314): Illegal event.
+\i (00:57:36) Esc 
+\w (00:57:36) WARNING(SPMHA1-314): Illegal event.
+\i (00:57:37) prepopup 20.718 8.900
+\i (00:57:38) oops 
+\t (00:57:38) Using 'PAD60CIR35D.pad'.
+\i (00:57:39) prepopup 22.350 9.194
+\i (00:57:40) cancel 
+\t (00:57:40) Exiting from Add Pin.
+\i (00:57:40) generaledit 
+\i (00:57:41) pick grid 17.355 7.626
+\t (00:57:41) last pick:  17.780 7.620
+\i (00:57:41) drag_start grid 22.285 7.724
+\i (00:57:42) drag_stop -2.202 7.920
+\e (00:57:43) Command not found: Del
+\i (00:57:45) prepopup 17.290 7.692
+\i (00:57:46) pop dyn_option_select @:@Delete 
+\i (00:57:46) delete 
+\i (00:57:46) generaledit 
+\i (00:58:03) add pin 
+\t (00:58:03) Using 'PAD60CIR35D.pad'.
+\i (00:58:07) setwindow form.mini
+\i (00:58:07) FORM mini next_pin_number 9 
+\i (00:58:08) setwindow pcb
+\i (00:58:08) pick grid 18.302 7.039
+\t (00:58:08) last pick:  17.780 7.620
+\t (00:58:08) Using 'PAD60CIR35D.pad'.
+\i (00:58:09) prepopup 18.955 11.087
+\i (00:58:10) done 
+\t (00:58:10) Exiting from Add Pin.
+\i (00:58:10) generaledit 
+\i (00:58:13) Esc 
+\i (01:00:09) pick grid -0.112 14.124
+\t (01:00:09) last pick:  0.000 13.970
+\i (01:00:10) prepopup -0.080 14.189
+\i (01:00:15) pop dyn_option_select '@:@Text edit' 
+\i (01:00:15) text edit 
+\i (01:00:18) setwindow form.textedit
+\i (01:00:18) FORM textedit str U* 
+\i (01:00:18) FORM textedit done  
+\i (01:00:18) setwindow pcb
+\i (01:00:18) pick 0.000 0.000
+\t (01:00:18) Pick text to edit.
+\i (01:00:18) setwindow pcb
+\i (01:00:18) generaledit 
+\i (01:00:19) prepopup -0.439 14.875
+\i (01:00:20) pick grid 7.430 14.254
+\t (01:00:20) last pick:  7.620 13.970
+\i (01:00:20) pick grid 8.213 14.156
+\t (01:00:20) last pick:  7.620 13.970
+\i (01:01:38) drag_start grid 0.214 15.168
+\i (01:01:38) drag_stop -2.855 13.079
+\i (01:01:39) drag_start grid -0.896 14.222
+\i (01:01:39) move 
+\t (01:01:39) last pick:  -1.270 13.970
+\t (01:01:39) Pick new location for the element(s).
+\i (01:01:40) drag_stop grid -0.047 11.153
+\i (01:01:40) generaledit 
+\i (01:01:41) prepopup 6.385 13.046
+\i (01:01:41) pick grid 4.263 13.014
+\t (01:01:41) last pick:  3.810 12.700
+\i (01:01:42) pick grid 5.634 14.222
+\t (01:01:42) last pick:  5.080 13.970
+\i (01:02:01) zoom out 1 
+\i (01:02:01) setwindow pcb
+\i (01:02:01) zoom out 4.948 14.352
+\i (01:02:01) trapsize 326
+\i (01:02:02) zoom in 1 
+\i (01:02:02) setwindow pcb
+\i (01:02:02) zoom in -9.547 -0.274
+\i (01:02:02) trapsize 163
+\i (01:02:07) zoom out 1 
+\i (01:02:07) setwindow pcb
+\i (01:02:07) zoom out -5.433 1.652
+\i (01:02:07) trapsize 326
+\i (01:02:07) zoom out 1 
+\i (01:02:07) setwindow pcb
+\i (01:02:07) zoom out -5.172 1.522
+\i (01:02:07) trapsize 653
+\i (01:02:07) zoom in 1 
+\i (01:02:07) setwindow pcb
+\i (01:02:07) zoom in -8.305 17.258
+\i (01:02:07) trapsize 326
+\i (01:02:08) zoom in 1 
+\i (01:02:08) setwindow pcb
+\i (01:02:08) zoom in -8.631 4.198
+\i (01:02:08) trapsize 163
+\i (01:02:10) zoom in 1 
+\i (01:02:10) setwindow pcb
+\i (01:02:10) zoom in 23.593 3.219
+\i (01:02:10) trapsize 82
+\i (01:02:11) zoom out 1 
+\i (01:02:11) setwindow pcb
+\i (01:02:11) zoom out 22.957 3.236
+\i (01:02:11) trapsize 163
+\i (01:02:11) zoom in 1 
+\i (01:02:11) setwindow pcb
+\i (01:02:11) zoom in -10.117 2.289
+\i (01:02:11) trapsize 82
+\i (01:02:12) zoom out 1 
+\i (01:02:12) setwindow pcb
+\i (01:02:12) zoom out -9.497 2.240
+\i (01:02:12) trapsize 163
+\i (01:02:28) save 
+\i (01:02:29) fillin yes 
+\t (01:02:30) Symbol 'my_dip16.psm' created.
+\i (01:02:30) generaledit 
+\i (02:27:57) new 
+\i (02:28:45) newdrawfillin "my_dip6.dra" "Package Symbol (Wizard)"
+\t (02:28:45) Starting new design...
+\i (02:28:45) trapsize 1306
+\i (02:28:45) trapsize 1306
+\i (02:28:45) package symbol wizard 
+\i (02:28:46) generaledit 
+\i (02:29:55) setwindow form.sym_wizard
+\i (02:29:55) FORM sym_wizard wiz_next  
+   (02:29:55) Loading cmds.cxt 
+   (02:29:55) Loading axlcore.cxt 
+\i (02:30:23) FORM sym_wizard load_template  
+\t (02:30:23) Opening existing design...
+\i (02:30:26) fillin yes 
+\t (02:30:26) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (02:30:26) setwindow pcb
+\i (02:30:26) trapsize 211
+\d (02:30:26) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (02:30:27) setwindow form.sym_wizard
+\i (02:30:27) FORM sym_wizard wiz_next  
+\i (02:30:53) FORM sym_wizard pack_units Millimeter 
+\i (02:30:54) FORM sym_wizard pack_units_create Millimeter 
+\i (02:31:29) FORM sym_wizard wiz_next  
+\i (02:31:38) FORM sym_wizard dip_pin_count 6 
+\i (02:32:46) FORM sym_wizard dip_len 7.620 
+\i (02:33:25) FORM sym_wizard wiz_next  
+\i (02:33:29) FORM sym_wizard default_pad_browse  
+\i (02:33:45) fillin "Pad60cir35d"
+\i (02:33:50) FORM sym_wizard pin1_pad_browse  
+\i (02:34:05) fillin "Pad60sq36d"
+\i (02:34:07) FORM sym_wizard wiz_next  
+\i (02:34:47) FORM sym_wizard wiz_next  
+\i (02:34:54) FORM sym_wizard wiz_finish  
+\w (02:34:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (02:34:54) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (02:34:54) setwindow pcb
+\i (02:34:54) trapsize 5371
+\t (02:34:54) Performing DRC...
+\t (02:34:54) No DRC errors detected.
+\w (02:34:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (02:34:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:34:54) trapsize 5371
+\i (02:34:54) trapsize 758
+\i (02:34:54) trapsize 101
+\i (02:34:54) trapsize 101
+\t (02:34:54) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_dip6.psm'.
+\t (02:34:54) Starting Create symbol...
+\i (02:34:55) generaledit 
+\i (02:36:27) create fanout librarian 
+\w (02:36:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (02:36:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:36:30) Esc 
+\i (02:36:30) prepopup 13.606 8.623
+\i (02:36:31) oops 
+\w (02:36:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (02:36:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:36:42) shape select 
+\i (02:36:51) artwork 
+\i (02:37:20) setwindow form.film_control
+\i (02:37:20) FORM film_control load  
+\i (02:37:41) fillin "C:\Users\user\Desktop\workspace\FILM_SETUP.txt"
+   (02:37:41) t
+\i (02:38:45) FORM film_control general_parameters  
+\i (02:38:46) FORM film_control film_control  
+\i (02:38:56) FORM film_control ok  
+\i (02:38:56) setwindow pcb
+\i (02:38:56) generaledit 
+\i (02:38:58) pick grid -3.176 3.670
+\t (02:38:58) last pick:  -2.540 2.540
+\i (02:39:02) pick grid 0.605 6.359
+\t (02:39:02) last pick:  0.000 7.620
+\i (02:39:05) pick grid 3.294 3.366
+\t (02:39:05) last pick:  2.540 2.540
+\i (02:39:05) pick grid 3.152 3.387
+\t (02:39:05) last pick:  2.540 2.540
+\i (02:39:06) pick grid dbl 3.152 3.387
+\t (02:39:06) last pick:  2.540 2.540
+\i (02:39:06) pick grid 3.476 4.984
+\t (02:39:06) last pick:  2.540 5.080
+\i (02:39:07) pick grid 1.757 3.953
+\t (02:39:07) last pick:  2.540 5.080
+\i (02:39:08) drag_start grid 1.737 3.791
+\i (02:39:08) move 
+\t (02:39:08) last pick:  2.540 2.540
+\t (02:39:08) Element has no origin, using pick.
+\t (02:39:08) Pick new location for the element(s).
+\i (02:39:08) drag_stop grid 5.983 4.034
+\i (02:39:09) generaledit 
+\i (02:39:10) prepopup 9.602 4.964
+\i (02:39:11) prepopup 6.266 4.842
+\i (02:39:13) pick grid 9.400 5.550
+\t (02:39:13) last pick:  10.160 5.080
+\i (02:39:13) undo 
+\i (02:39:13) trapsize 101
+\i (02:39:13) generaledit 
+\i (02:39:14) pick grid 4.649 4.398
+\t (02:39:14) last pick:  5.080 5.080
+\i (02:39:14) pick grid 4.932 6.136
+\t (02:39:14) last pick:  5.080 5.080
+\i (02:39:40) define grid 
+\t (02:39:40) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (02:39:40) generaledit 
+\i (02:39:46) setwindow form.grid
+\i (02:39:46) FORM grid non_etch non_etch_x_grids 0.635 
+\i (02:39:54) FORM grid non_etch non_etch_y_grids 0.635 
+\i (02:39:54) FORM grid done  
+\i (02:40:03) setwindow pcb
+\i (02:40:03) vertex 
+\i (02:40:05) pick grid -3.156 3.872
+\t (02:40:05) last pick:  -3.175 3.810
+\t (02:40:05) last pick:  -3.175 3.810
+\i (02:40:08) pick grid -2.388 3.508
+\t (02:40:08) last pick:  -2.540 3.810
+\t (02:40:08) No DRC errors detected.
+\i (02:40:10) pick grid -3.095 -3.670
+\t (02:40:10) last pick:  -3.175 -3.810
+\t (02:40:10) last pick:  -3.163 -3.666
+\i (02:40:10) pick grid -2.853 -3.710
+\t (02:40:10) last pick:  -2.540 -3.810
+\t (02:40:10) No DRC errors detected.
+\i (02:40:12) pick grid 3.051 3.852
+\t (02:40:12) last pick:  3.175 3.810
+\t (02:40:12) last pick:  3.051 3.810
+\i (02:40:12) pick grid 2.829 3.831
+\t (02:40:12) last pick:  2.540 3.810
+\t (02:40:12) No DRC errors detected.
+\i (02:40:13) pick grid 3.132 3.791
+\t (02:40:13) last pick:  3.175 3.810
+\t (02:40:13) last pick:  3.175 3.810
+\i (02:40:14) pick grid 2.788 3.528
+\t (02:40:14) last pick:  2.540 3.810
+\t (02:40:14) No DRC errors detected.
+\i (02:40:15) pick grid 3.253 -3.670
+\t (02:40:15) last pick:  3.175 -3.810
+\t (02:40:15) last pick:  3.175 -3.670
+\i (02:40:18) pick grid 2.849 -3.771
+\t (02:40:18) last pick:  2.540 -3.810
+\t (02:40:18) No DRC errors detected.
+\i (02:40:22) prepopup 1.798 2.982
+\i (02:40:22) done 
+\i (02:40:22) generaledit 
+\i (02:40:23) pick grid 6.549 5.004
+\t (02:40:23) last pick:  6.350 5.080
+\i (02:40:25) pick grid 3.152 2.457
+\t (02:40:25) last pick:  3.175 2.540
+\i (02:40:26) pick grid 2.930 1.668
+\t (02:40:26) last pick:  3.175 1.905
+\i (02:40:26) pick grid 3.011 1.304
+\t (02:40:26) last pick:  3.175 1.270
+\i (02:40:27) pick grid 3.152 6.864
+\t (02:40:27) last pick:  3.175 6.985
+\i (02:40:30) vertex 
+\i (02:40:31) pick grid 3.173 -3.771
+\t (02:40:31) last pick:  3.175 -3.810
+\t (02:40:31) last pick:  3.175 -3.810
+\i (02:40:34) pick grid 2.647 -3.508
+\t (02:40:34) last pick:  2.540 -3.810
+\t (02:40:34) No DRC errors detected.
+\i (02:40:37) pick grid 3.173 3.771
+\t (02:40:37) last pick:  3.175 3.810
+\t (02:40:37) last pick:  3.175 3.810
+\i (02:40:38) pick grid 2.849 3.710
+\t (02:40:38) last pick:  2.540 3.810
+\t (02:40:38) No DRC errors detected.
+\i (02:40:39) pick grid -3.176 3.791
+\t (02:40:39) last pick:  -3.175 3.810
+\t (02:40:39) last pick:  -3.175 3.810
+\i (02:40:39) pick grid -2.853 3.791
+\t (02:40:39) last pick:  -2.540 3.810
+\t (02:40:39) No DRC errors detected.
+\i (02:40:40) pick grid -3.136 -3.629
+\t (02:40:40) last pick:  -3.175 -3.810
+\t (02:40:40) last pick:  -3.160 -3.630
+\i (02:40:41) pick grid -2.792 -3.710
+\t (02:40:41) last pick:  -2.540 -3.810
+\t (02:40:41) No DRC errors detected.
+\i (02:40:41) prepopup 2.020 3.872
+\i (02:40:42) done 
+\i (02:40:42) generaledit 
+\i (02:41:06) prepopup -0.002 6.197
+\i (02:41:07) pick grid -0.790 6.076
+\t (02:41:07) last pick:  -0.635 6.350
+\i (02:41:17) pick grid 2.526 3.083
+\t (02:41:17) last pick:  2.540 3.175
+\i (02:41:18) pick grid 2.526 3.083
+\t (02:41:18) last pick:  2.540 3.175
+\i (02:41:19) pick grid 2.748 4.660
+\t (02:41:19) last pick:  2.540 4.445
+\i (02:41:20) pick grid 2.121 3.933
+\t (02:41:20) last pick:  1.905 3.810
+\i (02:41:20) pick grid 2.061 3.831
+\t (02:41:20) last pick:  1.905 3.810
+\i (02:41:21) pick grid 2.344 3.447
+\t (02:41:21) last pick:  2.540 3.175
+\i (02:41:21) pick grid 2.485 3.306
+\t (02:41:21) last pick:  2.540 3.175
+\i (02:41:22) pick grid 2.586 3.306
+\t (02:41:22) last pick:  2.540 3.175
+\i (02:41:22) pick grid 3.193 5.591
+\t (02:41:22) last pick:  3.175 5.715
+\i (02:42:04) setwindow form.mini
+\i (02:42:04) FORM mini subclass SILKSCREEN_TOP 
+\i (02:42:06) FORM mini subclass ASSEMBLY_TOP 
+\i (02:42:19) setwindow form.vf_vis
+\i (02:42:19) FORM vf_vis colorview_list Film: Design 
+\i (02:42:25) setwindow pcb
+\i (02:42:25) vertex 
+\i (02:42:27) pick grid 3.193 -3.791
+\t (02:42:27) last pick:  3.175 -3.810
+\t (02:42:27) last pick:  3.175 -3.810
+\i (02:42:28) pick grid 2.849 -3.791
+\t (02:42:28) last pick:  2.540 -3.810
+\t (02:42:28) No DRC errors detected.
+\i (02:42:29) pick grid -3.318 -3.730
+\t (02:42:29) last pick:  -3.175 -3.810
+\w (02:42:29) WARNING(SPMHGE-604): No editable vertex was found.
+\i (02:42:30) pick grid -3.136 -3.751
+\t (02:42:30) last pick:  -3.175 -3.810
+\t (02:42:30) last pick:  -3.175 -3.810
+\i (02:42:31) pick grid -2.832 -3.811
+\t (02:42:31) last pick:  -2.540 -3.810
+\t (02:42:31) No DRC errors detected.
+\i (02:42:32) pick grid -3.156 -3.751
+\t (02:42:32) last pick:  -3.175 -3.810
+\t (02:42:32) last pick:  -3.175 -3.810
+\i (02:42:33) pick grid -2.448 -3.751
+\t (02:42:33) last pick:  -2.540 -3.810
+\t (02:42:33) No DRC errors detected.
+\i (02:42:34) prepopup 5.983 2.537
+\i (02:42:35) done 
+\i (02:42:35) generaledit 
+\i (02:42:41) setwindow form.mini
+\i (02:42:41) FORM mini subclass SILKSCREEN_TOP 
+\i (02:42:43) FORM mini subclass ASSEMBLY_TOP 
+\i (02:43:12) setwindow pcb
+\i (02:43:12) pick grid -5.117 6.521
+\t (02:43:12) last pick:  -5.080 6.350
+\i (02:43:47) artwork 
+\i (02:43:52) setwindow form.film_control
+\i (02:43:52) FORM film_control load  
+\i (02:44:06) fillin "menu_cancel"
+\i (02:44:07) FORM film_control cancel  
+\i (02:44:07) setwindow pcb
+\i (02:44:07) generaledit 
+\i (02:46:31) prmed 
+\i (02:46:32) setwindow form.prmedit
+\i (02:46:32) FORM prmedit text  
+\i (02:46:33) FORM prmedit display  
+\i (02:46:36) FORM prmedit display_plated_holes YES 
+\i (02:46:37) FORM prmedit display_non_plated_holes YES 
+\i (02:46:37) FORM prmedit display_enhance YES 
+\i (02:46:38) FORM prmedit display_endcaps YES 
+\i (02:46:38) FORM prmedit display_thermal YES 
+\i (02:46:38) FORM prmedit display_fat_rats YES 
+\i (02:46:39) FORM prmedit waived_drc_on YES 
+\i (02:46:39) FORM prmedit via_labels YES 
+\i (02:46:39) FORM prmedit display_org YES 
+\i (02:46:40) FORM prmedit dp_driver_pins YES 
+\i (02:46:40) FORM prmedit secondary_step_model YES 
+\i (02:46:43) FORM prmedit done  
+\i (02:46:43) setwindow pcb
+\i (02:46:43) generaledit 
+\i (02:46:52) prmed 
+\i (02:46:57) setwindow form.prmedit
+\i (02:46:57) FORM prmedit design  
+\i (02:47:04) FORM prmedit long_name_size 255 
+\i (02:47:06) FORM prmedit text  
+\i (02:47:07) FORM prmedit shapes  
+\i (02:47:07) FORM prmedit flow_planning  
+\i (02:47:07) FORM prmedit route  
+\i (02:47:09) FORM prmedit done  
+\i (02:47:09) setwindow pcb
+\i (02:47:09) generaledit 
+\i (02:49:20) save 
+\i (02:49:21) fillin yes 
+\t (02:49:22) Symbol 'my_dip6.psm' created.
+\i (02:49:22) generaledit 
+\i (02:49:22) prepopup 6.367 3.488
+\i (02:49:23) pick grid 4.244 5.853
+\t (02:49:23) last pick:  4.445 5.715
+\i (02:49:33) new 
+\i (02:50:36) newdrawfillin "my_qfp16.dra" "Package Symbol (Wizard)"
+\t (02:50:36) Starting new design...
+\i (02:50:36) trapsize 142
+\i (02:50:36) trapsize 142
+\i (02:50:36) package symbol wizard 
+\i (02:50:36) generaledit 
+\i (02:50:38) setwindow form.sym_wizard
+\i (02:50:38) FORM sym_wizard plcc YES 
+\i (02:50:40) FORM sym_wizard wiz_next  
+\i (02:50:42) FORM sym_wizard load_template  
+\t (02:50:42) Opening existing design...
+\i (02:50:43) fillin yes 
+\t (02:50:43) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (02:50:43) setwindow pcb
+\i (02:50:43) trapsize 211
+\d (02:50:43) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (02:50:44) setwindow form.sym_wizard
+\i (02:50:44) FORM sym_wizard wiz_next  
+\i (02:50:47) FORM sym_wizard pack_units Millimeter 
+\i (02:50:48) FORM sym_wizard pack_units_create Millimeter 
+\i (02:50:50) FORM sym_wizard wiz_next  
+\i (02:50:57) FORM sym_wizard qfp_pin_count_v 4 
+\i (02:51:17) FORM sym_wizard qfp_pin_count_h 4 
+\i (02:51:17) FORM sym_wizard qfp_pin1_corner YES 
+\i (02:51:30) FORM sym_wizard wiz_next  
+\i (02:51:45) FORM sym_wizard qfp_e1 5.000 
+\i (02:51:46) FORM sym_wizard qfp_e2 5.000 
+\i (02:52:17) FORM sym_wizard qfp_width 5.000 
+\i (02:52:18) FORM sym_wizard qfp_len 5.000 
+\i (02:52:23) FORM sym_wizard qfp_e1 6.000 
+\i (02:52:24) FORM sym_wizard qfp_e2 6.000 
+\i (02:52:33) FORM sym_wizard qfp_e1 6.500 
+\i (02:52:34) FORM sym_wizard qfp_e2 6.500 
+\i (02:53:10) FORM sym_wizard wiz_next  
+\i (02:53:14) FORM sym_wizard default_pad_browse  
+\i (02:54:48) fillin "Smd25_94"
+\i (02:54:54) FORM sym_wizard wiz_next  
+\i (02:54:57) FORM sym_wizard wiz_next  
+\i (02:54:58) FORM sym_wizard wiz_finish  
+\w (02:54:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (02:54:58) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (02:54:58) setwindow pcb
+\i (02:54:58) trapsize 5371
+\t (02:54:58) Performing DRC...
+\t (02:54:58) No DRC errors detected.
+\w (02:54:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:54:58) trapsize 5371
+\i (02:54:58) trapsize 758
+\i (02:54:58) trapsize 101
+\i (02:54:58) trapsize 101
+\t (02:54:58) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_qfp16.psm'.
+\t (02:54:58) Starting Create symbol...
+\i (02:54:58) generaledit 
+\i (02:55:15) new 
+\e (02:55:15) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_qfp16.dra?
+\i (02:55:16) fillin no 
+\i (02:55:29) newdrawfillin "my_qfp16.dra" "Package Symbol (Wizard)"
+\t (02:55:29) Starting new design...
+\i (02:55:29) trapsize 169
+\i (02:55:29) trapsize 169
+\i (02:55:29) package symbol wizard 
+\i (02:55:29) generaledit 
+\i (02:55:32) setwindow form.sym_wizard
+\i (02:55:32) FORM sym_wizard bga YES 
+\i (02:55:33) FORM sym_wizard rca_th YES 
+\i (02:55:34) FORM sym_wizard rca_smd YES 
+\i (02:55:35) FORM sym_wizard bga YES 
+\i (02:55:35) FORM sym_wizard plcc YES 
+\i (02:55:43) FORM sym_wizard wiz_next  
+\i (02:55:44) FORM sym_wizard load_template  
+\t (02:55:44) Opening existing design...
+\i (02:55:45) fillin yes 
+\t (02:55:45) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (02:55:45) setwindow pcb
+\i (02:55:45) trapsize 211
+\d (02:55:45) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (02:55:46) setwindow form.sym_wizard
+\i (02:55:46) FORM sym_wizard wiz_next  
+\i (02:55:48) FORM sym_wizard pack_units Millimeter 
+\i (02:55:50) FORM sym_wizard pack_units_create Millimeter 
+\i (02:55:51) FORM sym_wizard wiz_next  
+\i (02:55:53) FORM sym_wizard qfp_pin_count_v 4 
+\i (02:55:56) FORM sym_wizard qfp_pin_count_h 4 
+\i (02:55:56) FORM sym_wizard qfp_pin1_corner YES 
+\i (02:55:58) FORM sym_wizard wiz_next  
+\i (02:56:03) FORM sym_wizard qfp_e1 6.500 
+\i (02:56:04) FORM sym_wizard qfp_e2 6.500 
+\i (02:56:05) FORM sym_wizard qfp_width 5.000 
+\i (02:56:06) FORM sym_wizard qfp_len 5.000 
+\i (02:56:07) FORM sym_wizard wiz_next  
+\i (02:56:09) FORM sym_wizard default_pad_browse  
+\i (02:56:37) fillin "Smd75_25"
+\i (02:56:45) FORM sym_wizard wiz_next  
+\i (02:56:46) FORM sym_wizard wiz_next  
+\i (02:56:47) FORM sym_wizard wiz_finish  
+\w (02:56:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (02:56:47) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (02:56:47) setwindow pcb
+\i (02:56:47) trapsize 5371
+\t (02:56:47) Performing DRC...
+\t (02:56:47) No DRC errors detected.
+\w (02:56:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (02:56:47) trapsize 5371
+\i (02:56:47) trapsize 758
+\i (02:56:47) trapsize 101
+\i (02:56:47) trapsize 101
+\i (02:56:50) fillin yes 
+\i (02:56:51) fillin yes 
+\t (02:56:51) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_qfp16.psm'.
+\t (02:56:51) Starting Create symbol...
+\i (02:56:51) generaledit 
+\i (02:57:06) prmed 
+\i (02:57:08) setwindow form.prmedit
+\i (02:57:08) FORM prmedit display  
+\i (02:57:09) FORM prmedit display_plated_holes YES 
+\i (02:57:09) FORM prmedit display_non_plated_holes YES 
+\i (02:57:10) FORM prmedit display_enhance YES 
+\i (02:57:10) FORM prmedit display_endcaps YES 
+\i (02:57:10) FORM prmedit display_thermal YES 
+\i (02:57:11) FORM prmedit display_fat_rats YES 
+\i (02:57:11) FORM prmedit waived_drc_on YES 
+\i (02:57:11) FORM prmedit via_labels YES 
+\i (02:57:12) FORM prmedit dp_driver_pins YES 
+\i (02:57:13) FORM prmedit secondary_step_model YES 
+\i (02:57:13) FORM prmedit done  
+\i (02:57:13) setwindow pcb
+\i (02:57:13) generaledit 
+\i (02:57:28) prmed 
+\i (02:57:29) setwindow form.prmedit
+\i (02:57:29) FORM prmedit design  
+\i (02:57:31) FORM prmedit long_name_size 255 
+\i (02:57:31) FORM prmedit done  
+\i (02:57:31) setwindow pcb
+\i (02:57:31) generaledit 
+\i (02:57:44) zoom in 1 
+\i (02:57:45) setwindow pcb
+\i (02:57:45) zoom in -3.194 1.296
+\i (02:57:45) trapsize 51
+\i (02:57:46) zoom out 1 
+\i (02:57:46) setwindow pcb
+\i (02:57:46) zoom out -3.325 1.144
+\i (02:57:46) trapsize 101
+\i (02:58:11) vertex 
+\i (02:58:12) pick grid -2.486 2.479
+\t (02:58:12) last pick:  -2.540 2.540
+\t (02:58:12) last pick:  -2.500 2.500
+\i (02:58:14) pick grid -2.486 2.479
+\t (02:58:14) last pick:  -2.540 2.540
+\t (02:58:14) No DRC errors detected.
+\i (02:58:16) pick grid 0.021 2.539
+\t (02:58:16) last pick:  0.000 2.540
+\t (02:58:16) last pick:  -0.020 2.520
+\i (02:58:22) zoom in 1 
+\i (02:58:22) setwindow pcb
+\i (02:58:22) zoom in 0.607 1.993
+\i (02:58:22) trapsize 51
+\i (02:58:25) prepopup -1.313 1.872
+\i (02:58:26) oops 
+\t (02:58:26) last pick:  0.000 2.540
+\i (02:58:26) prepopup -1.323 1.893
+\i (02:58:27) oops 
+\t (02:58:27) last pick:  -2.540 2.540
+\i (02:58:27) prepopup -1.404 1.933
+\i (02:58:28) oops 
+\t (02:58:28) last pick:  -2.500 2.500
+\i (02:58:29) prepopup -1.323 1.953
+\i (02:58:30) oops 
+\t (02:58:30) last pick:  -2.540 2.540
+\i (02:58:30) prepopup -1.364 1.973
+\i (02:58:31) oops 
+\i (02:58:32) prepopup -1.728 2.075
+\i (02:58:33) cancel 
+\i (02:58:33) generaledit 
+\i (02:58:34) prepopup 5.723 0.902
+\i (02:58:35) prepopup -1.920 1.903
+\i (02:58:37) prepopup -1.950 1.812
+\i (02:58:38) Esc 
+\i (03:02:44) pick grid -5.205 -0.018
+\t (03:02:44) last pick:  -5.080 0.000
+\i (03:05:45) new 
+\e (03:05:45) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_qfp16.dra?
+\i (03:05:46) fillin yes 
+\t (03:05:46) Symbol 'my_qfp16.psm' created.
+\i (03:06:01) newdrawfillin "my_Atmega328p.dra" "Package Symbol (Wizard)"
+\t (03:06:01) Starting new design...
+\i (03:06:01) trapsize 176
+\i (03:06:01) trapsize 176
+\i (03:06:01) package symbol wizard 
+\i (03:06:01) generaledit 
+\i (03:06:23) setwindow form.sym_wizard
+\i (03:06:23) FORM sym_wizard plcc YES 
+\i (03:06:25) FORM sym_wizard wiz_next  
+\i (03:06:27) FORM sym_wizard load_template  
+\t (03:06:27) Opening existing design...
+\i (03:06:27) fillin yes 
+\t (03:06:27) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:06:27) setwindow pcb
+\i (03:06:27) trapsize 211
+\d (03:06:27) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:06:28) setwindow form.sym_wizard
+\i (03:06:28) FORM sym_wizard wiz_next  
+\i (03:06:30) FORM sym_wizard pack_units Millimeter 
+\i (03:06:32) FORM sym_wizard pack_units_create Millimeter 
+\i (03:06:33) FORM sym_wizard wiz_next  
+\i (03:06:48) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:06:53) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:06:53) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:06:57) FORM sym_wizard wiz_next  
+\i (03:07:28) FORM sym_wizard qfp_width 5.000 
+\i (03:07:29) FORM sym_wizard qfp_len 5.000 
+\i (03:09:07) FORM sym_wizard qfp_width 9.000 
+\i (03:09:07) FORM sym_wizard qfp_len 9.000 
+\i (03:09:23) FORM sym_wizard qfp_e1 7.000 
+\i (03:10:36) FORM sym_wizard qfp_e2 7.000 
+\i (03:10:40) FORM sym_wizard wiz_next  
+\i (03:10:48) FORM sym_wizard default_pad_browse  
+\i (03:20:14) fillin "Smd75_25"
+\i (03:20:16) FORM sym_wizard wiz_next  
+\i (03:20:18) FORM sym_wizard wiz_next  
+\i (03:20:19) FORM sym_wizard wiz_finish  
+\w (03:20:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:20:19) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:20:19) setwindow pcb
+\i (03:20:19) trapsize 5371
+\t (03:20:19) Performing DRC...
+\t (03:20:19) No DRC errors detected.
+\w (03:20:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:20:19) trapsize 5371
+\i (03:20:19) trapsize 758
+\i (03:20:19) trapsize 152
+\i (03:20:19) trapsize 152
+\t (03:20:19) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:20:19) Starting Create symbol...
+\i (03:20:20) generaledit 
+\i (03:20:30) new 
+\e (03:20:30) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega328p.dra?
+\i (03:20:32) fillin no 
+\i (03:20:51) newdrawfillin "my_Atmega328P.dra" "Package Symbol (Wizard)"
+\t (03:20:51) Starting new design...
+\i (03:20:51) trapsize 186
+\i (03:20:51) trapsize 186
+\i (03:20:51) package symbol wizard 
+\i (03:20:51) generaledit 
+\i (03:20:52) setwindow form.sym_wizard
+\i (03:20:52) FORM sym_wizard plcc YES 
+\i (03:20:53) FORM sym_wizard wiz_next  
+\i (03:20:55) FORM sym_wizard load_template  
+\t (03:20:55) Opening existing design...
+\i (03:20:55) fillin yes 
+\t (03:20:55) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:20:55) setwindow pcb
+\i (03:20:55) trapsize 211
+\d (03:20:55) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:20:56) setwindow form.sym_wizard
+\i (03:20:56) FORM sym_wizard wiz_next  
+\i (03:20:58) FORM sym_wizard pack_units Millimeter 
+\i (03:20:59) FORM sym_wizard pack_units_create Millimeter 
+\i (03:21:00) FORM sym_wizard wiz_next  
+\i (03:21:01) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:21:03) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:21:06) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:21:10) FORM sym_wizard wiz_next  
+\i (03:21:14) FORM sym_wizard qfp_e1 9.000 
+\i (03:21:15) FORM sym_wizard qfp_e2 9.000 
+\i (03:21:19) FORM sym_wizard qfp_width 7.000 
+\i (03:21:19) FORM sym_wizard qfp_len 7.000 
+\i (03:21:19) FORM sym_wizard wiz_next  
+\i (03:21:48) FORM sym_wizard wiz_back  
+\i (03:22:19) FORM sym_wizard qfp_e1 10.000 
+\i (03:22:21) FORM sym_wizard qfp_e2 10.000 
+\i (03:22:21) FORM sym_wizard wiz_next  
+\i (03:22:22) FORM sym_wizard default_pad_browse  
+\i (03:22:32) fillin "menu_cancel"
+\i (03:22:33) FORM sym_wizard default_pad_browse  
+\i (03:23:04) fillin "Smd75_25"
+\i (03:23:06) FORM sym_wizard wiz_next  
+\i (03:23:08) FORM sym_wizard wiz_next  
+\i (03:23:09) FORM sym_wizard wiz_finish  
+\w (03:23:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:23:09) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:23:09) setwindow pcb
+\i (03:23:09) trapsize 5371
+\t (03:23:09) Performing DRC...
+\t (03:23:09) No DRC errors detected.
+\w (03:23:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:23:09) trapsize 5371
+\i (03:23:09) trapsize 758
+\i (03:23:09) trapsize 101
+\i (03:23:09) trapsize 101
+\i (03:23:10) fillin yes 
+\i (03:23:11) fillin yes 
+\t (03:23:11) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:23:11) Starting Create symbol...
+\i (03:23:12) generaledit 
+\i (03:24:43) new 
+\e (03:24:43) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega328P.dra?
+\i (03:24:44) fillin no 
+\i (03:24:54) newdrawfillin "my_Atmega328P.dra" "Package Symbol (Wizard)"
+\t (03:24:54) Starting new design...
+\i (03:24:54) trapsize 248
+\i (03:24:54) trapsize 248
+\i (03:24:54) package symbol wizard 
+\i (03:24:55) generaledit 
+\i (03:24:55) setwindow form.sym_wizard
+\i (03:24:55) FORM sym_wizard plcc YES 
+\i (03:24:56) FORM sym_wizard wiz_next  
+\i (03:24:57) FORM sym_wizard load_template  
+\t (03:24:57) Opening existing design...
+\i (03:24:58) fillin yes 
+\t (03:24:58) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:24:58) setwindow pcb
+\i (03:24:58) trapsize 211
+\d (03:24:58) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:24:59) setwindow form.sym_wizard
+\i (03:24:59) FORM sym_wizard wiz_next  
+\i (03:25:01) FORM sym_wizard pack_units Millimeter 
+\i (03:25:01) FORM sym_wizard pack_units_create Millimeter 
+\i (03:25:02) FORM sym_wizard wiz_next  
+\i (03:25:05) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:25:08) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:25:08) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:25:09) FORM sym_wizard wiz_next  
+\i (03:25:23) FORM sym_wizard qfp_e1 7.000 
+\i (03:25:43) FORM sym_wizard qfp_e2 7.000 
+\i (03:25:49) FORM sym_wizard qfp_width 9.250 
+\i (03:25:51) FORM sym_wizard qfp_len 9.250 
+\i (03:25:57) FORM sym_wizard wiz_next  
+\i (03:25:58) FORM sym_wizard default_pad_browse  
+\i (03:26:10) fillin "Smd75_25"
+\i (03:26:17) FORM sym_wizard wiz_next  
+\i (03:26:20) FORM sym_wizard wiz_next  
+\i (03:26:21) FORM sym_wizard wiz_finish  
+\w (03:26:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:26:21) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:26:21) setwindow pcb
+\i (03:26:21) trapsize 5371
+\t (03:26:21) Performing DRC...
+\t (03:26:21) No DRC errors detected.
+\w (03:26:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:26:21) trapsize 5371
+\i (03:26:21) trapsize 758
+\i (03:26:21) trapsize 152
+\i (03:26:21) trapsize 152
+\i (03:26:22) fillin yes 
+\i (03:26:23) fillin yes 
+\t (03:26:23) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:26:23) Starting Create symbol...
+\i (03:26:24) generaledit 
+\i (03:26:40) new 
+\e (03:26:40) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega328P.dra?
+\i (03:26:41) fillin no 
+\i (03:27:02) newdrawfillin "my_Atmega328P.dra" "Package Symbol (Wizard)"
+\t (03:27:02) Starting new design...
+\i (03:27:02) trapsize 188
+\i (03:27:02) trapsize 188
+\i (03:27:02) package symbol wizard 
+\i (03:27:02) generaledit 
+\i (03:27:03) setwindow form.sym_wizard
+\i (03:27:03) FORM sym_wizard plcc YES 
+\i (03:27:04) FORM sym_wizard wiz_next  
+\i (03:27:05) FORM sym_wizard load_template  
+\t (03:27:05) Opening existing design...
+\i (03:27:05) fillin yes 
+\t (03:27:05) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:27:05) setwindow pcb
+\i (03:27:05) trapsize 211
+\d (03:27:05) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:27:06) setwindow form.sym_wizard
+\i (03:27:06) FORM sym_wizard wiz_next  
+\i (03:27:08) FORM sym_wizard pack_units Millimeter 
+\i (03:27:09) FORM sym_wizard pack_units_create Millimeter 
+\i (03:27:09) FORM sym_wizard wiz_next  
+\i (03:27:11) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:27:12) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:27:13) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:27:13) FORM sym_wizard wiz_next  
+\i (03:27:16) FORM sym_wizard qfp_e1 7.000 
+\i (03:27:17) FORM sym_wizard qfp_e2 7.000 
+\i (03:27:18) FORM sym_wizard qfp_width 9.000 
+\i (03:27:19) FORM sym_wizard qfp_len 9.000 
+\i (03:27:22) FORM sym_wizard wiz_next  
+\i (03:27:23) FORM sym_wizard default_pad_browse  
+\i (03:27:28) fillin "Smd75_25"
+\i (03:27:29) FORM sym_wizard wiz_next  
+\i (03:27:30) FORM sym_wizard wiz_next  
+\i (03:27:31) FORM sym_wizard wiz_finish  
+\w (03:27:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:27:31) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:27:31) setwindow pcb
+\i (03:27:31) trapsize 5371
+\t (03:27:31) Performing DRC...
+\t (03:27:31) No DRC errors detected.
+\w (03:27:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:27:31) trapsize 5371
+\i (03:27:31) trapsize 758
+\i (03:27:31) trapsize 152
+\i (03:27:31) trapsize 152
+\i (03:27:32) fillin yes 
+\i (03:27:32) fillin yes 
+\t (03:27:32) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:27:32) Starting Create symbol...
+\i (03:27:33) generaledit 
+\i (03:27:41) pick grid 9.107 1.752
+\t (03:27:41) last pick:  10.160 2.540
+\i (03:27:44) new 
+\e (03:27:44) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega328P.dra?
+\i (03:27:57) fillin yes 
+\t (03:27:57) Symbol 'my_atmega328p.psm' created.
+\i (03:28:22) newdrawfillin "my_Atmega328P.dra" "Package Symbol (Wizard)"
+\t (03:28:22) Starting new design...
+\i (03:28:22) trapsize 186
+\i (03:28:22) trapsize 186
+\i (03:28:23) package symbol wizard 
+\i (03:28:23) generaledit 
+\i (03:28:24) setwindow form.sym_wizard
+\i (03:28:24) FORM sym_wizard plcc YES 
+\i (03:28:24) FORM sym_wizard bga YES 
+\i (03:28:24) FORM sym_wizard plcc YES 
+\i (03:28:25) FORM sym_wizard wiz_next  
+\i (03:28:26) FORM sym_wizard load_template  
+\t (03:28:26) Opening existing design...
+\i (03:28:27) fillin yes 
+\t (03:28:27) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:28:27) setwindow pcb
+\i (03:28:27) trapsize 211
+\d (03:28:27) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:28:28) setwindow form.sym_wizard
+\i (03:28:28) FORM sym_wizard wiz_next  
+\i (03:28:29) FORM sym_wizard pack_units Millimeter 
+\i (03:28:30) FORM sym_wizard pack_units_create Millimeter 
+\i (03:28:31) FORM sym_wizard wiz_next  
+\i (03:28:33) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:28:35) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:28:35) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:28:35) FORM sym_wizard wiz_next  
+\i (03:28:38) FORM sym_wizard qfp_e1 7.000 
+\i (03:28:39) FORM sym_wizard qfp_e2 7.000 
+\i (03:28:40) FORM sym_wizard qfp_width 9.000 
+\i (03:28:41) FORM sym_wizard qfp_len 9.000 
+\i (03:28:42) FORM sym_wizard qfp_e2 9.000 
+\i (03:28:44) FORM sym_wizard qfp_e2 7.000 
+\i (03:28:52) FORM sym_wizard wiz_next  
+\i (03:28:54) FORM sym_wizard default_pad_browse  
+\i (03:29:02) fillin "menu_cancel"
+\i (03:29:03) FORM sym_wizard wiz_back  
+\i (03:29:07) FORM sym_wizard wiz_next  
+\i (03:29:51) FORM sym_wizard default_pad_browse  
+\i (03:30:46) fillin "Smd65rec16"
+\i (03:30:47) FORM sym_wizard wiz_next  
+\i (03:30:48) FORM sym_wizard wiz_next  
+\i (03:30:48) FORM sym_wizard wiz_finish  
+\w (03:30:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:30:48) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:30:48) setwindow pcb
+\i (03:30:48) trapsize 5371
+\t (03:30:48) Performing DRC...
+\t (03:30:48) No DRC errors detected.
+\w (03:30:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:30:48) trapsize 5371
+\i (03:30:48) trapsize 758
+\i (03:30:48) trapsize 152
+\i (03:30:48) trapsize 152
+\i (03:30:49) fillin yes 
+\i (03:30:50) fillin yes 
+\t (03:30:50) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:30:50) Starting Create symbol...
+\i (03:30:50) generaledit 
+\i (03:31:02) new 
+\e (03:31:02) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega328P.dra?
+\i (03:31:08) fillin yes 
+\t (03:31:08) Symbol 'my_atmega328p.psm' created.
+\i (03:31:35) newdrawfillin "my_Atmega328P.dra" "Package Symbol (Wizard)"
+\t (03:31:35) Starting new design...
+\i (03:31:35) trapsize 186
+\i (03:31:35) trapsize 186
+\i (03:31:35) package symbol wizard 
+\i (03:31:35) generaledit 
+\i (03:31:36) setwindow form.sym_wizard
+\i (03:31:36) FORM sym_wizard plcc YES 
+\i (03:31:37) FORM sym_wizard bga YES 
+\i (03:31:37) FORM sym_wizard plcc YES 
+\i (03:31:37) FORM sym_wizard wiz_next  
+\i (03:31:39) FORM sym_wizard load_template  
+\t (03:31:39) Opening existing design...
+\i (03:31:39) fillin yes 
+\t (03:31:39) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:31:39) setwindow pcb
+\i (03:31:39) trapsize 211
+\d (03:31:40) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:31:40) setwindow form.sym_wizard
+\i (03:31:40) FORM sym_wizard wiz_next  
+\i (03:31:42) FORM sym_wizard pack_units Millimeter 
+\i (03:31:42) FORM sym_wizard pack_units_create Millimeter 
+\i (03:31:43) FORM sym_wizard wiz_next  
+\i (03:31:45) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:31:46) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:31:46) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:31:47) FORM sym_wizard wiz_next  
+\i (03:31:50) FORM sym_wizard qfp_e1 7.000 
+\i (03:31:50) FORM sym_wizard qfp_e2 7.000 
+\i (03:31:51) FORM sym_wizard qfp_width 9.000 
+\i (03:31:52) FORM sym_wizard qfp_len 9.000 
+\i (03:31:55) FORM sym_wizard wiz_next  
+\i (03:31:56) FORM sym_wizard default_pad_browse  
+\i (03:32:05) fillin "menu_cancel"
+\i (03:32:06) FORM sym_wizard default_pad_browse  
+\i (03:33:55) fillin "Smd30rec14"
+\i (03:33:56) FORM sym_wizard wiz_next  
+\i (03:33:57) FORM sym_wizard wiz_next  
+\i (03:33:57) FORM sym_wizard wiz_finish  
+\w (03:33:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:33:57) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:33:57) setwindow pcb
+\i (03:33:57) trapsize 5371
+\t (03:33:57) Performing DRC...
+\t (03:33:57) No DRC errors detected.
+\w (03:33:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:33:57) trapsize 5371
+\i (03:33:57) trapsize 758
+\i (03:33:57) trapsize 152
+\i (03:33:57) trapsize 152
+\i (03:33:58) fillin yes 
+\i (03:33:59) fillin yes 
+\t (03:33:59) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:33:59) Starting Create symbol...
+\i (03:33:59) generaledit 
+\i (03:34:07) zoom in 1 
+\i (03:34:07) setwindow pcb
+\i (03:34:07) zoom in -2.612 -0.189
+\i (03:34:07) trapsize 76
+\i (03:34:10) zoom in 1 
+\i (03:34:10) setwindow pcb
+\i (03:34:10) zoom in 3.143 3.163
+\i (03:34:10) trapsize 38
+\i (03:34:11) zoom out 1 
+\i (03:34:11) setwindow pcb
+\i (03:34:11) zoom out 3.030 3.042
+\i (03:34:11) trapsize 76
+\i (03:34:24) open 
+\e (03:34:24) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega328P.dra?
+\i (03:34:25) fillin no 
+\i (03:34:27) fillin "my_dip.dra"
+\t (03:34:27) Opening existing design...
+\i (03:34:27) trapsize 163
+\d (03:34:27) Design opened: C:/Users/user/Desktop/workspace/pcp_lib/psm/my_dip.dra
+\i (03:34:27) generaledit 
+\i (03:34:30) open 
+\i (03:34:32) fillin "my_dip16.dra"
+\t (03:34:32) Opening existing design...
+\i (03:34:32) trapsize 163
+\d (03:34:32) Design opened: C:/Users/user/Desktop/workspace/pcp_lib/psm/my_dip16.dra
+\i (03:34:32) generaledit 
+\i (03:34:35) open 
+\i (03:34:44) fillin "menu_cancel"
+\i (03:34:44) generaledit 
+\i (03:34:46) new 
+\i (03:34:54) newdrawfillin "my_atmega328P.dra" "Package Symbol (Wizard)"
+\t (03:34:54) Starting new design...
+\i (03:34:54) trapsize 1306
+\i (03:34:54) trapsize 1306
+\i (03:34:54) package symbol wizard 
+\i (03:34:54) generaledit 
+\i (03:35:03) setwindow form.sym_wizard
+\i (03:35:03) FORM sym_wizard plcc YES 
+\i (03:35:04) FORM sym_wizard wiz_next  
+\i (03:35:05) FORM sym_wizard load_template  
+\t (03:35:05) Opening existing design...
+\i (03:35:06) fillin yes 
+\t (03:35:06) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:35:06) setwindow pcb
+\i (03:35:06) trapsize 211
+\d (03:35:06) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:35:07) setwindow form.sym_wizard
+\i (03:35:07) FORM sym_wizard wiz_next  
+\i (03:35:09) FORM sym_wizard pack_units Millimeter 
+\i (03:35:10) FORM sym_wizard pack_units_create Millimeter 
+\i (03:35:10) FORM sym_wizard wiz_next  
+\i (03:35:11) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:35:13) FORM sym_wizard qfp_pin_count_v 8 
+\i (03:35:14) FORM sym_wizard qfp_pin_count_h 8 
+\i (03:35:14) FORM sym_wizard wiz_next  
+\i (03:36:04) FORM sym_wizard qfp_e1 7.000 
+\i (03:36:05) FORM sym_wizard qfp_e2 7.000 
+\i (03:36:06) FORM sym_wizard qfp_width 9.000 
+\i (03:36:07) FORM sym_wizard qfp_len 9.000 
+\i (03:36:13) FORM sym_wizard qfp_len 7.000 
+\i (03:36:14) FORM sym_wizard qfp_width 7.000 
+\i (03:36:15) FORM sym_wizard qfp_e2 9.000 
+\i (03:36:17) FORM sym_wizard qfp_e1 9.000 
+\i (03:36:24) FORM sym_wizard wiz_next  
+\i (03:36:25) FORM sym_wizard default_pad_browse  
+\i (03:36:34) fillin "Smd65rec16"
+\i (03:36:36) FORM sym_wizard wiz_next  
+\i (03:36:36) FORM sym_wizard wiz_next  
+\i (03:36:37) FORM sym_wizard wiz_finish  
+\w (03:36:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:36:37) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:36:37) setwindow pcb
+\i (03:36:37) trapsize 5371
+\t (03:36:37) Performing DRC...
+\t (03:36:37) No DRC errors detected.
+\w (03:36:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:36:37) trapsize 5371
+\i (03:36:37) trapsize 758
+\i (03:36:37) trapsize 152
+\i (03:36:37) trapsize 152
+\i (03:36:38) fillin yes 
+\i (03:36:38) fillin yes 
+\t (03:36:38) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega328p.psm'.
+\t (03:36:38) Starting Create symbol...
+\i (03:36:39) generaledit 
+\i (03:39:28) pick grid -6.636 -7.309
+\t (03:39:28) last pick:  -7.620 -7.620
+\t (03:39:29) last pick:  19.053 -3.063
+\w (03:39:29) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (03:39:30) save 
+\i (03:39:31) fillin yes 
+\t (03:39:31) Symbol 'my_atmega328p.psm' created.
+\i (03:39:31) generaledit 
+\i (03:39:33) new 
+\i (03:40:22) newdrawfillin "my_Atmega128.dra" "Package Symbol (Wizard)"
+\t (03:40:23) Starting new design...
+\i (03:40:23) trapsize 225
+\i (03:40:23) trapsize 225
+\i (03:40:23) package symbol wizard 
+\i (03:40:23) generaledit 
+\i (03:40:24) setwindow form.sym_wizard
+\i (03:40:24) FORM sym_wizard plcc YES 
+\i (03:40:25) FORM sym_wizard wiz_next  
+\i (03:40:26) FORM sym_wizard load_template  
+\t (03:40:26) Opening existing design...
+\i (03:40:27) fillin yes 
+\t (03:40:27) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:40:27) setwindow pcb
+\i (03:40:27) trapsize 211
+\d (03:40:27) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:40:27) setwindow form.sym_wizard
+\i (03:40:27) FORM sym_wizard wiz_next  
+\i (03:40:31) FORM sym_wizard pack_units Millimeter 
+\i (03:40:32) FORM sym_wizard pack_units_create Millimeter 
+\i (03:40:33) FORM sym_wizard wiz_next  
+\i (03:40:51) FORM sym_wizard qfp_pin_count_v 16 
+\i (03:40:52) FORM sym_wizard qfp_pin_count_h 16 
+\i (03:40:52) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:40:53) FORM sym_wizard wiz_next  
+\i (03:41:08) FORM sym_wizard qfp_len 14.000 
+\i (03:41:19) FORM sym_wizard qfp_width 14.000 
+\i (03:41:20) FORM sym_wizard qfp_e1 16.000 
+\i (03:41:22) FORM sym_wizard qfp_e2 16.000 
+\t (03:41:27) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (03:41:27) setwindow pcb
+\i (03:41:27) trapsize 387
+\i (03:41:31) setwindow form.sym_wizard
+\i (03:41:31) FORM sym_wizard wiz_next  
+\i (03:41:32) FORM sym_wizard default_pad_browse  
+\i (03:45:04) fillin "Smd68rec12"
+\i (03:45:06) FORM sym_wizard wiz_next  
+\i (03:45:07) FORM sym_wizard wiz_next  
+\i (03:45:08) FORM sym_wizard wiz_finish  
+\w (03:45:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:45:08) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (03:45:08) setwindow pcb
+\i (03:45:08) trapsize 9838
+\t (03:45:08) Performing DRC...
+\t (03:45:08) No DRC errors detected.
+\w (03:45:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:45:08) trapsize 9838
+\i (03:45:08) trapsize 1073
+\i (03:45:08) trapsize 215
+\i (03:45:08) trapsize 215
+\t (03:45:08) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega128.psm'.
+\t (03:45:08) Starting Create symbol...
+\i (03:45:08) generaledit 
+\i (03:45:09) trapsize 79
+\i (03:45:10) zoom out 1 
+\i (03:45:10) setwindow pcb
+\i (03:45:10) zoom out -4.935 -10.011
+\i (03:45:10) trapsize 158
+\i (03:45:11) zoom out 1 
+\i (03:45:11) setwindow pcb
+\i (03:45:11) zoom out -4.936 -10.010
+\i (03:45:11) trapsize 316
+\i (03:45:12) zoom in 1 
+\i (03:45:12) setwindow pcb
+\i (03:45:12) zoom in -2.985 0.269
+\i (03:45:12) trapsize 158
+\i (03:45:14) pick grid 6.798 7.029
+\t (03:45:14) last pick:  7.620 7.620
+\i (03:45:15) pick grid 13.494 6.050
+\t (03:45:15) last pick:  12.700 5.080
+\i (03:45:25) new 
+\e (03:45:25) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_Atmega128.dra?
+\i (03:45:33) fillin yes 
+\t (03:45:33) Symbol 'my_atmega128.psm' created.
+\i (03:45:40) newdrawfillin "my_Atmega128.dra" "Package Symbol (Wizard)"
+\t (03:45:40) Starting new design...
+\i (03:45:40) trapsize 373
+\i (03:45:40) trapsize 373
+\i (03:45:40) package symbol wizard 
+\i (03:45:40) generaledit 
+\i (03:45:41) setwindow form.sym_wizard
+\i (03:45:41) FORM sym_wizard plcc YES 
+\i (03:45:42) FORM sym_wizard wiz_next  
+\i (03:45:48) FORM sym_wizard load_template  
+\t (03:45:48) Opening existing design...
+\i (03:45:49) fillin yes 
+\t (03:45:49) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:45:49) setwindow pcb
+\i (03:45:49) trapsize 211
+\d (03:45:49) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:45:50) setwindow form.sym_wizard
+\i (03:45:50) FORM sym_wizard wiz_next  
+\i (03:45:52) FORM sym_wizard pack_units Millimeter 
+\i (03:45:53) FORM sym_wizard pack_units_create Millimeter 
+\i (03:45:53) FORM sym_wizard wiz_next  
+\i (03:45:59) FORM sym_wizard qfp_pin_count_v 16 
+\i (03:46:01) FORM sym_wizard qfp_pin_count_h 16 
+\i (03:46:01) FORM sym_wizard qfp_pin1_corner YES 
+\i (03:46:02) FORM sym_wizard wiz_next  
+\i (03:46:06) FORM sym_wizard qfp_e1 16.000 
+\i (03:46:07) FORM sym_wizard qfp_e2 16.000 
+\i (03:46:11) FORM sym_wizard qfp_width 14.000 
+\i (03:46:12) FORM sym_wizard qfp_len 14.000 
+\i (03:46:12) FORM sym_wizard wiz_next  
+\i (03:46:13) FORM sym_wizard default_pad_browse  
+\t (03:46:16) No valid name selected.
+\t (03:46:18) No valid name selected.
+\t (03:46:21) No valid name selected.
+\i (03:46:24) fillin "Smd65rec13"
+\i (03:46:32) FORM sym_wizard wiz_next  
+\i (03:46:33) FORM sym_wizard wiz_next  
+\i (03:46:33) FORM sym_wizard wiz_finish  
+\w (03:46:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:46:33) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:46:33) setwindow pcb
+\i (03:46:33) trapsize 5371
+\t (03:46:33) Performing DRC...
+\t (03:46:33) No DRC errors detected.
+\w (03:46:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:46:33) trapsize 5371
+\i (03:46:33) trapsize 758
+\i (03:46:33) trapsize 202
+\i (03:46:33) trapsize 202
+\i (03:46:34) fillin yes 
+\i (03:46:35) fillin yes 
+\t (03:46:35) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_atmega128.psm'.
+\t (03:46:35) Starting Create symbol...
+\i (03:46:35) generaledit 
+\i (03:46:39) save 
+\i (03:46:40) fillin yes 
+\t (03:46:40) Symbol 'my_atmega128.psm' created.
+\i (03:46:40) generaledit 
+\i (03:46:41) zoom in 1 
+\i (03:46:41) setwindow pcb
+\i (03:46:41) zoom in 5.654 0.256
+\i (03:46:41) trapsize 101
+\i (03:46:44) zoom out 1 
+\i (03:46:44) setwindow pcb
+\i (03:46:44) zoom out 6.220 3.956
+\i (03:46:44) trapsize 202
+\i (03:46:45) save 
+\i (03:46:46) fillin yes 
+\t (03:46:46) Symbol 'my_atmega128.psm' created.
+\i (03:46:46) generaledit 
+\i (03:46:55) new 
+\i (03:47:15) newdrawfillin "my_FT232R.dra" "Package Symbol (Wizard)"
+\t (03:47:15) Starting new design...
+\i (03:47:15) trapsize 370
+\i (03:47:15) trapsize 370
+\i (03:47:15) package symbol wizard 
+\i (03:47:15) generaledit 
+\i (03:47:16) setwindow form.sym_wizard
+\i (03:47:16) FORM sym_wizard plcc YES 
+\i (03:47:17) FORM sym_wizard soic YES 
+\i (03:47:18) FORM sym_wizard dip YES 
+\i (03:47:20) FORM sym_wizard wiz_next  
+\i (03:47:22) FORM sym_wizard load_template  
+\t (03:47:22) Opening existing design...
+\i (03:47:22) fillin yes 
+\t (03:47:22) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:47:22) setwindow pcb
+\i (03:47:22) trapsize 211
+\d (03:47:22) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:47:23) setwindow form.sym_wizard
+\i (03:47:23) FORM sym_wizard wiz_next  
+\i (03:47:25) FORM sym_wizard pack_units Millimeter 
+\i (03:47:26) FORM sym_wizard pack_units_create Millimeter 
+\i (03:47:26) FORM sym_wizard wiz_next  
+\i (03:48:44) FORM sym_wizard dip_len 10.200 
+\i (03:48:54) FORM sym_wizard dip_width 5.300 
+\i (03:49:06) FORM sym_wizard dip_e1 7.800 
+\i (03:49:25) FORM sym_wizard dip_e 0.650 
+\i (03:49:25) FORM sym_wizard wiz_next  
+\i (03:49:28) FORM sym_wizard wiz_back  
+\i (03:49:43) FORM sym_wizard wiz_next  
+\i (03:49:44) FORM sym_wizard default_pad_browse  
+\i (03:49:50) fillin "pad.pad"
+\i (03:49:51) FORM sym_wizard default_pad_browse  
+\i (03:49:55) fillin "menu_cancel"
+\i (03:49:56) FORM sym_wizard default_pad_browse  
+\i (03:52:13) fillin "Smd50rec12"
+\i (03:52:14) FORM sym_wizard wiz_next  
+\i (03:52:15) FORM sym_wizard wiz_next  
+\i (03:52:15) FORM sym_wizard wiz_finish  
+\w (03:52:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:52:15) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:52:15) setwindow pcb
+\i (03:52:15) trapsize 5371
+\t (03:52:15) Performing DRC...
+\t (03:52:15) No DRC errors detected.
+\w (03:52:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:52:15) trapsize 5371
+\i (03:52:15) trapsize 758
+\i (03:52:15) trapsize 101
+\i (03:52:15) trapsize 101
+\t (03:52:15) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_ft232r.psm'.
+\t (03:52:15) Starting Create symbol...
+\i (03:52:16) generaledit 
+\i (03:52:30) new 
+\e (03:52:30) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_FT232R.dra?
+\i (03:52:31) fillin no 
+\i (03:52:41) newdrawfillin "my_FT232R.dra" "Package Symbol (Wizard)"
+\t (03:52:41) Starting new design...
+\i (03:52:41) trapsize 190
+\i (03:52:41) trapsize 190
+\i (03:52:41) package symbol wizard 
+\i (03:52:41) generaledit 
+\i (03:52:43) setwindow form.sym_wizard
+\i (03:52:43) FORM sym_wizard wiz_next  
+\i (03:52:44) FORM sym_wizard load_template  
+\t (03:52:44) Opening existing design...
+\i (03:52:45) fillin yes 
+\t (03:52:45) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:52:45) setwindow pcb
+\i (03:52:45) trapsize 211
+\d (03:52:45) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:52:45) setwindow form.sym_wizard
+\i (03:52:45) FORM sym_wizard wiz_next  
+\i (03:52:47) FORM sym_wizard pack_units Millimeter 
+\i (03:52:48) FORM sym_wizard pack_units_create Millimeter 
+\i (03:52:49) FORM sym_wizard wiz_next  
+\i (03:53:00) FORM sym_wizard dip_e 0.650 
+\i (03:53:05) FORM sym_wizard dip_e1 7.800 
+\i (03:53:07) FORM sym_wizard dip_width 5.300 
+\i (03:53:11) FORM sym_wizard dip_len 10.200 
+\i (03:53:11) FORM sym_wizard wiz_next  
+\i (03:53:12) FORM sym_wizard default_pad_browse  
+\i (03:54:28) fillin "Smd70rec20"
+\i (03:54:28) FORM sym_wizard wiz_next  
+\i (03:54:29) FORM sym_wizard wiz_next  
+\i (03:54:29) FORM sym_wizard wiz_finish  
+\w (03:54:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:54:29) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:54:29) setwindow pcb
+\i (03:54:29) trapsize 5371
+\t (03:54:29) Performing DRC...
+\t (03:54:29) No DRC errors detected.
+\w (03:54:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:54:29) trapsize 5371
+\i (03:54:29) trapsize 758
+\i (03:54:29) trapsize 101
+\i (03:54:29) trapsize 101
+\i (03:54:30) fillin yes 
+\i (03:54:31) fillin yes 
+\t (03:54:31) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_ft232r.psm'.
+\t (03:54:31) Starting Create symbol...
+\i (03:54:32) generaledit 
+\i (03:54:43) new 
+\e (03:54:43) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/pcp_lib/psm/my_FT232R.dra?
+\i (03:54:45) fillin no 
+\i (03:54:56) newdrawfillin "my_FT232R.dra" "Package Symbol (Wizard)"
+\t (03:54:56) Starting new design...
+\i (03:54:56) trapsize 190
+\i (03:54:56) trapsize 190
+\i (03:54:56) package symbol wizard 
+\i (03:54:56) generaledit 
+\i (03:54:58) setwindow form.sym_wizard
+\i (03:54:58) FORM sym_wizard wiz_next  
+\i (03:54:59) FORM sym_wizard load_template  
+\t (03:54:59) Opening existing design...
+\i (03:54:59) fillin yes 
+\t (03:54:59) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (03:54:59) setwindow pcb
+\i (03:54:59) trapsize 211
+\d (03:54:59) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (03:55:00) setwindow form.sym_wizard
+\i (03:55:00) FORM sym_wizard wiz_next  
+\i (03:55:01) FORM sym_wizard pack_units Millimeter 
+\i (03:55:02) FORM sym_wizard pack_units_create Millimeter 
+\i (03:55:04) FORM sym_wizard wiz_next  
+\i (03:55:06) FORM sym_wizard dip_pin_count 28 
+\i (03:55:15) FORM sym_wizard dip_e 0.650 
+\i (03:55:21) FORM sym_wizard dip_e1 7.800 
+\i (03:55:26) FORM sym_wizard dip_width 5.300 
+\i (03:55:33) FORM sym_wizard dip_len 10.200 
+\i (03:55:33) FORM sym_wizard wiz_next  
+\i (03:55:34) FORM sym_wizard default_pad_browse  
+\i (03:55:41) fillin "Smd70rec20"
+\i (03:55:41) FORM sym_wizard wiz_next  
+\i (03:55:42) FORM sym_wizard wiz_next  
+\i (03:55:43) FORM sym_wizard wiz_finish  
+\w (03:55:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (03:55:43) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (03:55:43) setwindow pcb
+\i (03:55:43) trapsize 5371
+\t (03:55:43) Performing DRC...
+\t (03:55:43) No DRC errors detected.
+\w (03:55:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:55:43) trapsize 5371
+\i (03:55:43) trapsize 758
+\i (03:55:43) trapsize 101
+\i (03:55:43) trapsize 101
+\i (03:55:43) fillin yes 
+\i (03:55:44) fillin yes 
+\t (03:55:44) Creating package symbol 'C:/Users/user/Desktop/workspace/pcp_lib/psm/my_ft232r.psm'.
+\t (03:55:44) Starting Create symbol...
+\i (03:55:44) generaledit 
+\i (03:55:52) save 
+\i (03:55:53) fillin yes 
+\t (03:55:53) Symbol 'my_ft232r.psm' created.
+\i (03:55:53) generaledit 
+\i (03:56:42) pick grid 11.356 -3.031
+\t (03:56:42) last pick:  10.160 -2.540
+\i (03:59:25) pick grid 12.954 1.397
+\t (03:59:25) last pick:  12.700 2.540
+\i (03:59:25) save 
+\i (03:59:26) fillin yes 
+\t (03:59:26) Symbol 'my_ft232r.psm' created.
+\i (03:59:26) generaledit 
+\i (03:59:27) save 
+\i (03:59:28) fillin yes 
+\t (03:59:28) Symbol 'my_ft232r.psm' created.
+\i (03:59:28) generaledit 
+\i (04:18:58) zoom out 1 
+\i (04:18:58) setwindow pcb
+\i (04:18:58) zoom out 9.274 -4.022
+\i (04:18:58) trapsize 190
+\i (04:18:59) zoom out 1 
+\i (04:18:59) setwindow pcb
+\i (04:18:59) zoom out 20.596 -7.269
+\i (04:18:59) trapsize 190
+\i (04:19:00) pick grid 13.288 -6.432
+\t (04:19:00) last pick:  12.700 -7.620
+\i (05:30:08) pick grid 16.219 -5.252
+\t (05:30:08) last pick:  15.240 -5.080
+\i (05:30:09) save 
+\i (05:30:10) fillin yes 
+\t (05:30:10) Symbol 'my_ft232r.psm' created.
+\i (05:30:10) generaledit 
+\i (05:30:11) exit 
+\t (05:30:13)     Journal end - Tue Jul 16 17:14:08 2019
