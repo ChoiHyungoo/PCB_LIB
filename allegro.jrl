@@ -1,0 +1,137 @@
+\t (00:00:04) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:04)     Journal start - Wed Jul 17 11:57:12 2019
+\t (00:00:04)         Host=USER-PC User=user Pid=6184 CPUs=4
+\t (00:00:04) CmdLine= allegro.exe -p .
+\t (00:00:04) 
+   (00:00:04) ilinit Start.
+   (00:00:04) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 1627
+\i (00:00:05) trapsize 1598
+\i (00:00:06) trapsize 1632
+\i (00:00:06) trapsize 1786
+\i (00:00:06) trapsize 2685
+\i (00:00:06) generaledit 
+\i (00:00:12) new 
+\i (00:00:14) newdrawfillin "123.brd" "Board"
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 2685
+\i (00:00:14) trapsize 2685
+\i (00:00:14) generaledit 
+\i (00:00:17) place manual 
+\i (00:00:18) setwindow form.plc_manual
+\i (00:00:18) FORM plc_manual advanced_settings  
+\i (00:00:19) FORM plc_manual library YES 
+\i (00:00:19) FORM plc_manual placement_list  
+\i (00:00:21) FORM plc_manual categories Package symbols 
+\i (00:00:27) FORM plc_manual tree  MY_ATMEGA2560 'Package symbols' 
+\i (00:00:28) FORM plc_manual hide  
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick grid 139.100 353.389
+\t (00:00:29) last pick:  139.700 353.060
+\i (00:00:32) place manual 
+\i (00:00:38) setwindow form.plc_manual
+\i (00:00:38) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA328P 'Package symbols' 
+\w (00:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:38) FORM plc_manual tree  MY_ATMEGA328P 'Package symbols' 
+\i (00:00:40) FORM plc_manual hide  
+\i (00:00:40) setwindow pcb
+\i (00:00:40) pick grid 178.306 323.850
+\t (00:00:40) last pick:  177.800 325.120
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 175.620 321.702
+\i (00:00:42) trapsize 1343
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 175.620 321.702
+\i (00:00:42) trapsize 671
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 175.620 321.702
+\i (00:00:42) trapsize 336
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 175.621 321.703
+\i (00:00:42) trapsize 168
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 176.124 322.476
+\i (00:00:43) trapsize 84
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 176.426 322.594
+\i (00:00:43) trapsize 42
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out 176.518 322.636
+\i (00:00:44) trapsize 84
+\i (00:00:46) Esc 
+\i (00:00:47) prepopup 185.951 322.704
+\i (00:00:47) done 
+\i (00:00:47) generaledit 
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 182.930 322.855
+\i (00:00:48) trapsize 42
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 182.930 322.856
+\i (00:00:48) trapsize 21
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 182.926 322.856
+\i (00:00:48) trapsize 10
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 182.926 322.857
+\i (00:00:48) trapsize 5
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 182.926 322.857
+\i (00:00:48) trapsize 10
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 182.925 322.857
+\i (00:00:48) trapsize 21
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 182.921 322.861
+\i (00:00:48) trapsize 42
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 182.333 322.903
+\i (00:00:48) trapsize 84
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 179.344 323.389
+\i (00:00:49) trapsize 168
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 187.638 323.960
+\i (00:00:51) trapsize 336
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 177.094 328.191
+\i (00:00:51) trapsize 672
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 199.390 331.147
+\i (00:00:52) trapsize 336
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 198.786 331.617
+\i (00:00:52) trapsize 168
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 175.046 326.480
+\i (00:00:53) trapsize 84
+\i (00:00:57) place manual 
+\i (00:01:23) setwindow form.plc_manual
+\i (00:01:23) FORM plc_manual cancel  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) generaledit 
+\i (00:01:24) exit 
+\e (00:01:24) Do you want to save the changes you made to 123.brd?
+\i (00:01:25) fillin no 
+\t (00:01:25)     Journal end - Wed Jul 17 11:58:33 2019
